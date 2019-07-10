@@ -1,0 +1,24 @@
+{
+    "name": "soluzione-software/nova-search-translations",
+    "description": "Search translations in Laravel Nova.",
+    "keywords": [
+        "laravel",
+        "nova",
+        "search",
+        "translations"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SoluzioneSoftware\\Nova\\SearchTranslations\\": "src/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
